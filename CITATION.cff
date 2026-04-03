@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the repository and, where appropriate, the associated paper."
+title: "PISA 2022 Thailand ICT Random Forest Paper Repository"
+type: software
+authors:
+  - family-names: "Pearson"
+    given-names: "Leigh"
+repository-code: "https://github.com/leighpearson/pisa_thailand_ict_rf_paper"
+abstract: "Public-facing repository supporting transparency and auditability for the paper 'Understanding ICT-Related Drivers of Student Achievement in Thailand: A Cross-Framework Random Forest Analysis of PISA 2022'. The repository contains selected scripts, metadata, and outputs underlying the published analysis."
+license: "MIT"
+version: "1.0.0"
+date-released: 2026-04-03
+keywords:
+  - PISA 2022
+  - Thailand
+  - ICT
+  - random forest
+  - educational outcomes
+  - MLFTAU
+  - cross-framework analysis

@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# R / RStudio
+.Rhistory
+.RData
+.Rproj.user/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Extra safety
+*variable_mapping_table*
+*master_model_tracker*

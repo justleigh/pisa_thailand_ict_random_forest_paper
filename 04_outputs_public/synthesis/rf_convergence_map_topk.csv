@@ -1,0 +1,174 @@
+variable,n_topk_slices,frameworks,contexts,granularities,max_importance,best_rank_any
+stdv_curiosity_agreement,41,Global_AllPredictors; Global_InSchool; Global_OutOfSchool; MLFTAU_Contextual_InSchool; MLFTAU_Contextual_OutOfSchool; PISA_Contextual_InSchool; PISA_Contextual_OutOfSchool,All; InSchool; OutOfSchool,Construct; Domain; None,1,1
+stdv_emotional_control_agreement,34,Global_OutOfSchool; MLFTAU_Contextual_InSchool; MLFTAU_Contextual_OutOfSchool; PISA_Contextual_InSchool; PISA_Contextual_OutOfSchool,InSchool; OutOfSchool,Construct; Domain; None,1,1
+icdv_ict_access_quality,33,MLFTAU_Contextual_InSchool; PISA_Contextual_InSchool,InSchool,Construct; Domain,1,1
+icdv_ict_self_efficacy,32,Global_AllPredictors; Global_InSchool; Global_OutOfSchool; MLFTAU_Contextual_InSchool; MLFTAU_Contextual_OutOfSchool; PISA_Contextual_InSchool; PISA_Contextual_OutOfSchool,All; InSchool; OutOfSchool,Construct; Domain; None,1,1
+icdv_ict_online_practices,31,MLFTAU_Contextual_InSchool; MLFTAU_Contextual_OutOfSchool; PISA_Contextual_InSchool; PISA_Contextual_OutOfSchool,InSchool; OutOfSchool,Construct; Domain,1,1
+stdv_perseverance_agreement_self,30,Global_AllPredictors; Global_InSchool; Global_OutOfSchool; MLFTAU_Contextual_InSchool; MLFTAU_Contextual_OutOfSchool; PISA_Contextual_InSchool; PISA_Contextual_OutOfSchool,All; InSchool; OutOfSchool,Construct; Domain; None,0.863639743,2
+sc_num_data_projectors,29,Global_AllPredictors; Global_InSchool; MLFTAU_Contextual_InSchool; PISA_Contextual_InSchool,All; InSchool,Construct; Domain; None,1,1
+icdv_ict_outside_class_self,24,Global_AllPredictors; Global_OutOfSchool; MLFTAU_Contextual_OutOfSchool; PISA_Contextual_OutOfSchool,All; OutOfSchool,Construct; Domain; None,1,1
+icdv_ict_regulated_use,24,Global_AllPredictors; Global_InSchool; MLFTAU_Contextual_InSchool; PISA_Contextual_InSchool,All; InSchool,Construct; Domain; None,1,1
+stdv_escs_index,24,Global_AllPredictors; Global_OutOfSchool; MLFTAU_Contextual_OutOfSchool; PISA_Contextual_OutOfSchool,All; OutOfSchool,Construct; Domain; None,1,1
+st_overall_life_satisfaction,22,Global_OutOfSchool; MLFTAU_Contextual_InSchool; MLFTAU_Contextual_OutOfSchool; PISA_Contextual_InSchool; PISA_Contextual_OutOfSchool,InSchool; OutOfSchool,Construct; Domain; None,1,1
+stdv_ict_resources,21,Global_AllPredictors; Global_OutOfSchool; MLFTAU_Contextual_OutOfSchool; PISA_Contextual_OutOfSchool,All; OutOfSchool,Construct; Domain; None,1,1
+stdv_home_possessions,21,Global_AllPredictors; Global_OutOfSchool; MLFTAU_Contextual_OutOfSchool; PISA_Contextual_OutOfSchool,All; OutOfSchool,Construct; Domain; None,0.958508473,2
+stdv_career_info_seeking,20,Global_AllPredictors; Global_InSchool; Global_OutOfSchool; MLFTAU_Contextual_InSchool; MLFTAU_Contextual_OutOfSchool; PISA_Contextual_InSchool; PISA_Contextual_OutOfSchool,All; InSchool; OutOfSchool,Construct; Domain; None,1,1
+stdv_exposure_formal_applied_math,20,Global_AllPredictors; Global_InSchool; MLFTAU_Contextual_InSchool; PISA_Contextual_InSchool,All; InSchool,Construct; Domain; None,1,1
+stdv_cognitive_activation_reasoning,19,Global_InSchool; MLFTAU_Contextual_InSchool; PISA_Contextual_InSchool,InSchool,Construct; Domain; None,1,1
+icdv_ict_use_weekday,19,Global_AllPredictors; Global_OutOfSchool; MLFTAU_Contextual_OutOfSchool; PISA_Contextual_OutOfSchool,All; OutOfSchool,Construct; Domain; None,0.982865136,2
+icdv_ict_use_weekend,18,Global_OutOfSchool; MLFTAU_Contextual_OutOfSchool; PISA_Contextual_OutOfSchool,OutOfSchool,Construct; Domain; None,1,1
+scdv_total_math_teachers,18,Global_AllPredictors; Global_InSchool; MLFTAU_Contextual_InSchool; PISA_Contextual_InSchool,All; InSchool,Construct; Domain; None,1,1
+st_total_class_periods_per_week,18,Global_AllPredictors; Global_InSchool; MLFTAU_Contextual_InSchool; PISA_Contextual_InSchool,All; InSchool,Construct; Domain; None,1,1
+stdv_exposure_21st_century_math,18,MLFTAU_Contextual_InSchool; PISA_Contextual_InSchool,InSchool,Construct; Domain,0.916746743,2
+icdv_ict_use_subject_lessons,17,MLFTAU_Contextual_InSchool; PISA_Contextual_InSchool,InSchool,Construct; Domain,1,1
+sc_teacher_computers_internet,17,MLFTAU_Contextual_InSchool; PISA_Contextual_InSchool,InSchool,Construct; Domain,1,1
+stdv_self_learning_efficacy,17,Global_OutOfSchool; MLFTAU_Contextual_OutOfSchool; PISA_Contextual_OutOfSchool,OutOfSchool,Construct; Domain; None,1,1
+st_digital_leisure_weekend_hours,17,MLFTAU_Contextual_OutOfSchool; PISA_Contextual_OutOfSchool,OutOfSchool,Construct; Domain,0.989598876,2
+stdv_bullying_experience,17,MLFTAU_Contextual_InSchool; PISA_Contextual_InSchool,InSchool,Construct; Domain,0.75721298,2
+stdv_work_for_pay,17,Global_AllPredictors; Global_OutOfSchool; MLFTAU_Contextual_OutOfSchool; PISA_Contextual_OutOfSchool,All; OutOfSchool,Construct; Domain; None,0.708675763,2
+icdv_ict_support_feedback_self,16,MLFTAU_Contextual_InSchool; PISA_Contextual_InSchool,InSchool,Construct; Domain,1,1
+scdv_student_teacher_ratio,16,MLFTAU_Contextual_InSchool; PISA_Contextual_InSchool,InSchool,Construct; Domain,0.705991472,2
+st_total_homework_time_all_subjects,16,Global_OutOfSchool; MLFTAU_Contextual_OutOfSchool; PISA_Contextual_OutOfSchool,OutOfSchool,Construct; Domain; None,0.628651746,2
+st_math_class_periods_per_week,16,Global_AllPredictors; Global_InSchool; MLFTAU_Contextual_InSchool; PISA_Contextual_InSchool,All; InSchool,Construct; Domain; None,0.528889878,2
+icdv_ict_enquiry_learning_self,15,MLFTAU_Contextual_InSchool; PISA_Contextual_InSchool,InSchool,Construct; Domain,1,1
+st_device_open_class,15,MLFTAU_Contextual_InSchool; PISA_Contextual_InSchool,InSchool,Construct,1,1
+st_digital_learning_weekend_hours,15,MLFTAU_Contextual_OutOfSchool; PISA_Contextual_OutOfSchool,OutOfSchool,Construct; Domain,1,1
+stdv_parent_highest_occup,15,Global_OutOfSchool; MLFTAU_Contextual_OutOfSchool; PISA_Contextual_OutOfSchool,OutOfSchool,Construct; Domain; None,0.460347957,2
+scdv_total_teachers,15,Global_AllPredictors; Global_InSchool; MLFTAU_Contextual_InSchool; PISA_Contextual_InSchool,All; InSchool,Construct; Domain; None,0.757722085,3
+scdv_math_extra_activities,15,MLFTAU_Contextual_InSchool; PISA_Contextual_InSchool,InSchool,Construct; Domain,0.526540021,4
+stdv_math_disciplinary_climate,14,Global_AllPredictors; Global_InSchool; PISA_Contextual_InSchool,All; InSchool,Construct; Domain; None,1,1
+stdv_math_self_efficacy_21st,14,Global_AllPredictors; Global_InSchool; MLFTAU_Contextual_InSchool; PISA_Contextual_InSchool,All; InSchool,Construct; Domain; None,1,1
+stdv_sense_of_belonging,14,MLFTAU_Contextual_InSchool; PISA_Contextual_InSchool,InSchool,Construct; Domain,1,1
+st_intelligence_hard_to_change,13,MLFTAU_Contextual_InSchool; MLFTAU_Contextual_OutOfSchool; PISA_Contextual_OutOfSchool,InSchool; OutOfSchool,Construct; Domain,1,1
+st_school_waste_of_time,13,MLFTAU_Contextual_InSchool; PISA_Contextual_InSchool,InSchool,Construct; Domain,1,1
+scdv_proportion_math_teachers,13,Global_AllPredictors; MLFTAU_Contextual_InSchool; PISA_Contextual_InSchool,All; InSchool,Construct; Domain; None,0.610164777,4
+sc_parents_initiative_progress,12,MLFTAU_Contextual_InSchool; PISA_Contextual_InSchool,InSchool,Construct,1,1
+scdv_math_class_size_dv,12,MLFTAU_Contextual_InSchool; PISA_Contextual_InSchool,InSchool,Construct,1,1
+st_digital_learning_school_hours,12,MLFTAU_Contextual_InSchool; PISA_Contextual_InSchool,InSchool,Construct,1,1
+stdv_expected_education_level,12,MLFTAU_Contextual_InSchool; MLFTAU_Contextual_OutOfSchool; PISA_Contextual_InSchool,InSchool; OutOfSchool,Construct; Domain,1,1
+stdv_math_persistence,12,Global_AllPredictors; Global_InSchool; MLFTAU_Contextual_InSchool; PISA_Contextual_InSchool,All; InSchool,Construct; Domain; None,1,1
+st_digital_leisure_school_hours,12,MLFTAU_Contextual_InSchool; PISA_Contextual_InSchool,InSchool,Construct,0.88581553,2
+scdv_student_school_climate_factors,12,MLFTAU_Contextual_InSchool; PISA_Contextual_InSchool,InSchool,Construct; Domain,0.651001078,2
+stdv_family_support,12,PISA_Contextual_OutOfSchool,OutOfSchool,Construct; Domain,0.63293158,4
+sc_disadvantaged_homes,12,Global_InSchool; MLFTAU_Contextual_InSchool; PISA_Contextual_InSchool,InSchool,Construct; Domain; None,0.472808731,6
+sc_inhouse_workshops_math_teacher_groups,11,PISA_Contextual_InSchool,InSchool,Construct; Domain,1,1
+scdv_proportion_master_teachers,11,Global_AllPredictors; Global_InSchool; MLFTAU_Contextual_InSchool; PISA_Contextual_InSchool,All; InSchool,Construct; Domain; None,1,1
+stdv_student_teacher_relation,11,MLFTAU_Contextual_InSchool; PISA_Contextual_InSchool,InSchool,Construct; Domain,0.966256259,2
+scdv_school_size,11,Global_InSchool; MLFTAU_Contextual_InSchool; PISA_Contextual_InSchool,InSchool,Construct; Domain; None,0.806425247,2
+st_more_trusting_than_others,11,MLFTAU_Contextual_InSchool; MLFTAU_Contextual_OutOfSchool; PISA_Contextual_InSchool; PISA_Contextual_OutOfSchool,InSchool; OutOfSchool,Construct,0.227326637,8
+st_device_near_home,10,MLFTAU_Contextual_OutOfSchool; PISA_Contextual_OutOfSchool,OutOfSchool,Construct; Domain,1,1
+st_rate_quality_math_instruction,10,Global_InSchool; MLFTAU_Contextual_InSchool; PISA_Contextual_InSchool,InSchool,Construct; Domain; None,1,1
+st_informed_paths_after_school,10,MLFTAU_Contextual_InSchool; PISA_Contextual_InSchool,InSchool,Construct,0.832446924,2
+ic_math_resource_simple_calculations,9,MLFTAU_Contextual_OutOfSchool; PISA_Contextual_InSchool; PISA_Contextual_OutOfSchool,InSchool; OutOfSchool,Construct,1,1
+sc_parents_assist_fundraising,9,MLFTAU_Contextual_InSchool; PISA_Contextual_InSchool,InSchool,Construct,1,1
+icdv_ict_distress_online,9,MLFTAU_Contextual_OutOfSchool; PISA_Contextual_OutOfSchool,OutOfSchool,Construct; Domain,0.989994814,2
+stdv_cognitive_activation_math_thinking,9,MLFTAU_Contextual_InSchool; PISA_Contextual_InSchool,InSchool,Construct,0.960889548,2
+scdv_teacher_feedback,9,MLFTAU_Contextual_InSchool; PISA_Contextual_InSchool,InSchool,Construct,0.697142507,2
+st_digital_leisure_before_after_hours,9,MLFTAU_Contextual_OutOfSchool; PISA_Contextual_OutOfSchool,OutOfSchool,Construct; Domain,0.817315993,3
+stdv_student_age,9,MLFTAU_Contextual_InSchool; MLFTAU_Contextual_OutOfSchool; PISA_Contextual_InSchool,InSchool; OutOfSchool,Construct; Domain,0.688536604,3
+stdv_study_homework,9,MLFTAU_Contextual_OutOfSchool; PISA_Contextual_OutOfSchool,OutOfSchool,Construct; Domain,0.531622705,3
+stdv_mother_occupation_status,9,MLFTAU_Contextual_OutOfSchool; PISA_Contextual_OutOfSchool,OutOfSchool,Construct; Domain,0.414457317,3
+ic_digital_use_coding_algorithms,9,MLFTAU_Contextual_OutOfSchool; PISA_Contextual_InSchool; PISA_Contextual_OutOfSchool,InSchool; OutOfSchool,Construct; Domain,0.394640097,5
+st_school_enrollment_duration,8,MLFTAU_Contextual_InSchool; PISA_Contextual_InSchool,InSchool,Construct; Domain,0.351548352,3
+st_rush_into_activities,8,MLFTAU_Contextual_InSchool; MLFTAU_Contextual_OutOfSchool; PISA_Contextual_InSchool; PISA_Contextual_OutOfSchool,InSchool; OutOfSchool,Construct,0.225732132,9
+st_think_most_people_selfish,8,MLFTAU_Contextual_OutOfSchool; PISA_Contextual_InSchool; PISA_Contextual_OutOfSchool,InSchool; OutOfSchool,Construct,0.205140574,9
+ic_math_resource_solve_equations,7,PISA_Contextual_InSchool; PISA_Contextual_OutOfSchool,InSchool; OutOfSchool,Construct,0.996826086,2
+stdv_school_absence_3_months,7,MLFTAU_Contextual_InSchool; PISA_Contextual_InSchool,InSchool,Construct; Domain,0.441126023,2
+sc_assessment_teacher_ratings,7,MLFTAU_Contextual_InSchool; PISA_Contextual_InSchool,InSchool,Construct,0.235773806,3
+scdv_test_language_class_size,7,MLFTAU_Contextual_InSchool; PISA_Contextual_InSchool,InSchool,Construct,0.255862521,4
+scdv_material_shortage,7,MLFTAU_Contextual_InSchool; PISA_Contextual_InSchool,InSchool,Construct; Domain,0.38661753,9
+sc_admission_consider_programme,6,PISA_Contextual_InSchool,InSchool,Construct,1,1
+sc_math_marks_above_pass,6,PISA_Contextual_InSchool,InSchool,Construct; Domain,1,1
+st_family_food_insecurity,6,MLFTAU_Contextual_OutOfSchool; PISA_Contextual_OutOfSchool,OutOfSchool,Construct,1,1
+st_worry_unprepared_after_school,6,PISA_Contextual_InSchool,InSchool,Construct; Domain,1,1
+stdv_education_level_program,6,MLFTAU_Contextual_InSchool; PISA_Contextual_InSchool,InSchool,Construct; Domain,1,1
+st_notifications_off_class,6,MLFTAU_Contextual_InSchool; PISA_Contextual_InSchool,InSchool,Construct,0.912599197,2
+sc_admission_consider_residence,6,PISA_Contextual_InSchool,InSchool,Construct,0.815432734,2
+sc_inhouse_workshops_math_issues,6,PISA_Contextual_InSchool,InSchool,Construct,0.786897196,2
+scdv_teacher_participation,6,PISA_Contextual_InSchool,InSchool,Construct,0.773045155,2
+sc_minutes_class_period_math,6,PISA_Contextual_InSchool,InSchool,Construct,0.532895607,2
+scdv_proportion_doctorate_teachers,6,MLFTAU_Contextual_InSchool; PISA_Contextual_InSchool,InSchool,Construct,0.896842738,3
+sc_teachers_initiative_behavior,6,MLFTAU_Contextual_InSchool; PISA_Contextual_InSchool,InSchool,Construct,0.882750864,3
+scdv_diversity_multicultural_views_self,6,MLFTAU_Contextual_InSchool; PISA_Contextual_InSchool,InSchool,Construct,0.559778702,3
+scdv_math_ability_grouping,6,PISA_Contextual_InSchool,InSchool,Construct,0.420450947,3
+scdv_digital_device_policies_self,6,MLFTAU_Contextual_InSchool; PISA_Contextual_InSchool,InSchool,Construct,0.300010322,3
+sc_policy_digital_devices_math_instruction,6,PISA_Contextual_InSchool,InSchool,Construct,0.384537722,4
+st_family_social_status_now,6,MLFTAU_Contextual_OutOfSchool; PISA_Contextual_OutOfSchool,OutOfSchool,Construct; Domain,0.346769788,5
+sc_assessment_teacher_math_tests,6,MLFTAU_Contextual_InSchool; PISA_Contextual_InSchool,InSchool,Construct,0.189874743,6
+sc_assessment_teacher_math_ratings,6,MLFTAU_Contextual_InSchool; PISA_Contextual_InSchool,InSchool,Construct,0.161102894,6
+sc_num_interactive_whiteboards,6,MLFTAU_Contextual_InSchool; PISA_Contextual_InSchool,InSchool,Construct; Domain,0.476896339,7
+sc_math_programme_local_assessments,6,MLFTAU_Contextual_InSchool; PISA_Contextual_InSchool,InSchool,Construct,0.194309021,8
+st_understand_why_people_behave,6,MLFTAU_Contextual_OutOfSchool; PISA_Contextual_InSchool; PISA_Contextual_OutOfSchool,InSchool; OutOfSchool,Construct,0.229201542,9
+sc_math_achievement_public_post,5,MLFTAU_Contextual_InSchool; PISA_Contextual_InSchool,InSchool,Construct,1,1
+sc_math_programme_national_assessments,5,MLFTAU_Contextual_InSchool; PISA_Contextual_InSchool,InSchool,Construct,0.981031514,2
+sc_external_eval_policy_changes,5,MLFTAU_Contextual_InSchool; PISA_Contextual_InSchool,InSchool,Construct,0.852566385,2
+sc_math_programme_teacher_discretion,5,PISA_Contextual_InSchool,InSchool,Construct,0.375888073,4
+sc_math_programme_math_department,5,MLFTAU_Contextual_InSchool; PISA_Contextual_InSchool,InSchool,Construct,0.317505696,6
+st_language_skill_hard_to_improve,4,MLFTAU_Contextual_InSchool; MLFTAU_Contextual_OutOfSchool,InSchool; OutOfSchool,Construct,0.807935059,3
+scdv_computer_availability,4,MLFTAU_Contextual_InSchool; PISA_Contextual_InSchool,InSchool,Construct,0.690774227,3
+stdv_father_occupation_status,4,MLFTAU_Contextual_OutOfSchool; PISA_Contextual_OutOfSchool,OutOfSchool,Construct; Domain,0.400865617,3
+st_digital_learning_before_after_hours,4,MLFTAU_Contextual_OutOfSchool; PISA_Contextual_OutOfSchool,OutOfSchool,Construct; Domain,0.713990593,4
+icdv_ict_at_school,4,PISA_Contextual_InSchool,InSchool,Construct; Domain,0.268831145,6
+sc_community_type,4,Global_OutOfSchool; PISA_Contextual_OutOfSchool,OutOfSchool,Domain; None,0.337729642,7
+sc_assessment_nonmandatory_tests,4,MLFTAU_Contextual_InSchool; PISA_Contextual_InSchool,InSchool,Construct,0.170301436,7
+sc_math_programme_school_assessments,3,PISA_Contextual_InSchool,InSchool,Construct,1,1
+sc_parents_school_governance,3,PISA_Contextual_InSchool,InSchool,Construct,1,1
+sc_teacher_monitor_peer_review,3,PISA_Contextual_InSchool,InSchool,Construct,1,1
+st_time_spent_on_science_homework,3,PISA_Contextual_OutOfSchool,OutOfSchool,Construct,1,1
+sc_math_policy_standardized,3,PISA_Contextual_InSchool,InSchool,Construct,0.288506049,2
+st_reason_school_missed_suspended,3,MLFTAU_Contextual_InSchool,InSchool,Construct,0.220606121,2
+st_family_social_status_future,3,MLFTAU_Contextual_OutOfSchool,OutOfSchool,Construct,0.51785478,3
+stdv_feeling_safe,3,PISA_Contextual_InSchool,InSchool,Construct,0.511653552,3
+scdv_school_autonomy,3,PISA_Contextual_InSchool,InSchool,Construct,0.37546083,3
+st_pressure_online_class,3,MLFTAU_Contextual_InSchool,InSchool,Construct,0.213711109,3
+scdv_instructional_leadership,3,PISA_Contextual_InSchool,InSchool,Construct,0.749155295,4
+scdv_proportion_fully_cert_teachers,3,PISA_Contextual_InSchool,InSchool,Construct,0.462880841,4
+sc_teachers_initiative_progress,3,PISA_Contextual_InSchool,InSchool,Construct,0.375833104,4
+scdv_digital_learning_preparedness,3,PISA_Contextual_InSchool,InSchool,Construct,0.238516696,4
+scdv_proportion_pedagogical_support,3,PISA_Contextual_InSchool,InSchool,Construct,0.238096233,4
+scdv_standardized_tests_usage,3,PISA_Contextual_InSchool,InSchool,Construct,0.338221102,5
+stdv_teacher_support_math,3,MLFTAU_Contextual_InSchool,InSchool,Construct,0.57168335,6
+scdv_parent_involvement_encouragement,3,MLFTAU_Contextual_InSchool; PISA_Contextual_InSchool,InSchool,Construct,0.563739633,6
+scdv_teacher_school_climate_factors,3,MLFTAU_Contextual_InSchool,InSchool,Construct,0.300585943,6
+scdv_teacher_developed_tests,3,PISA_Contextual_InSchool,InSchool,Construct,0.258804088,6
+sc_parents_initiative_behavior,3,MLFTAU_Contextual_InSchool; PISA_Contextual_InSchool,InSchool,Construct,0.620176619,7
+stdv_school_safety_risk,3,PISA_Contextual_InSchool,InSchool,Domain,0.441319734,7
+ic_digital_use_simulations_modelling,3,PISA_Contextual_InSchool,InSchool,Construct,0.386366257,7
+sc_math_programme_commercial_programmes,3,MLFTAU_Contextual_InSchool,InSchool,Construct,0.141145194,7
+sc_minutes_class_period_avg,3,PISA_Contextual_InSchool,InSchool,Construct,0.116936833,8
+sc_assessment_nonmandatory_math_tests,3,PISA_Contextual_InSchool,InSchool,Construct,0.14916663,9
+sc_assessment_teacher_tests,3,MLFTAU_Contextual_InSchool; PISA_Contextual_InSchool,InSchool,Construct,0.129859704,11
+sc_parents_volunteering_activities,3,MLFTAU_Contextual_InSchool,InSchool,Construct,0.270054816,12
+scdv_staff_shortage,3,MLFTAU_Contextual_InSchool,InSchool,Construct,0.255994204,12
+scdv_total_non_teaching_staff,3,MLFTAU_Contextual_InSchool,InSchool,Construct,0.063401171,13
+st_time_spent_on_language_homework,2,PISA_Contextual_OutOfSchool,OutOfSchool,Construct,1,1
+st_math_skill_hard_to_improve,2,MLFTAU_Contextual_InSchool,InSchool,Construct,0.955796717,2
+st_avoid_mistakes,2,MLFTAU_Contextual_OutOfSchool,OutOfSchool,Construct,0.696964863,2
+st_school_unprepared_adult_life,2,MLFTAU_Contextual_InSchool,InSchool,Construct,0.692183479,2
+sc_math_programme_regional_standards,2,MLFTAU_Contextual_InSchool,InSchool,Construct,0.534641016,2
+st_reason_school_missed_sick,2,PISA_Contextual_OutOfSchool,OutOfSchool,Construct,0.481705774,2
+sc_info_future_careers,2,PISA_Contextual_InSchool,InSchool,Construct,0.061113588,2
+sc_inhouse_training_math_specialists,2,PISA_Contextual_InSchool,InSchool,Construct,0.428382586,3
+st_school_prepared_future,2,PISA_Contextual_InSchool,InSchool,Construct,0.3648196,4
+scdv_educational_leadership,2,PISA_Contextual_InSchool,InSchool,Construct,0.649764431,6
+scdv_negative_school_climate,2,MLFTAU_Contextual_InSchool,InSchool,Construct,0.059892926,15
+sc_teacher_monitor_external_observe,1,PISA_Contextual_InSchool,InSchool,Construct,0.938006862,2
+st_notifications_off_sleep,1,MLFTAU_Contextual_OutOfSchool,OutOfSchool,Construct,0.698030133,2
+st_school_useful_in_job,1,MLFTAU_Contextual_InSchool,InSchool,Construct,0.614254549,2
+st_reason_school_missed_family_care,1,PISA_Contextual_OutOfSchool,OutOfSchool,Construct,0.418430536,2
+sc_math_achievement_provided_parents,1,PISA_Contextual_InSchool,InSchool,Construct,0.251302534,2
+sc_info_internships,1,PISA_Contextual_InSchool,InSchool,Construct,0.185141602,2
+sc_external_eval_teaching_plan,1,PISA_Contextual_InSchool,InSchool,Construct,0.724551294,3
+sc_study_help_staff,1,PISA_Contextual_InSchool,InSchool,Construct,0.513232511,3
+sc_teacher_monitor_tests,1,PISA_Contextual_InSchool,InSchool,Construct,0.476972877,3
+sc_external_eval_action_plan,1,PISA_Contextual_InSchool,InSchool,Construct,0.45745448,3
+sc_all_teachers_prof_dev_percent,1,PISA_Contextual_InSchool,InSchool,Construct,0.298800751,5
+stdv_work_household,1,MLFTAU_Contextual_OutOfSchool,OutOfSchool,Construct,0.424312916,7
+sc_math_classes_mixed_ability,1,PISA_Contextual_InSchool,InSchool,Construct,0.196803182,8
+sc_student_grouped_within_classes,1,PISA_Contextual_InSchool,InSchool,Construct,0.183988154,8
+sc_math_programme_local_standards,1,MLFTAU_Contextual_InSchool,InSchool,Construct,0.140382012,8
+st_wait_turn_to_speak,1,PISA_Contextual_InSchool,InSchool,Construct,0.163232961,12
+stdv_student_grade,1,MLFTAU_Contextual_InSchool,InSchool,Construct,0.161489382,13
+st_family_pressure_specific_path,1,MLFTAU_Contextual_OutOfSchool,OutOfSchool,Construct,0.156176276,13
+scdv_proportion_admin_staff,1,MLFTAU_Contextual_InSchool,InSchool,Construct,0.068528159,13
+st_student_grade_level,1,MLFTAU_Contextual_InSchool,InSchool,Construct,0.15975192,14
