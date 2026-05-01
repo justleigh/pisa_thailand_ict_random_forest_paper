@@ -12,6 +12,9 @@ This folder contains the script files underlying the published paper on ICT-rela
 
 - `03_synthesis/`  
   The synthesis script used to consolidate random forest outputs and generate the higher-level synthesis files underpinning the paper’s main interpretive claims.
+  
+- `04_validation/`
+  Validation scripts supporting the manuscript’s predictive performance checks, rank-stability checks, sensitivity checks, correlation diagnostics, and validation summary tables.
 
 ## Important note
 

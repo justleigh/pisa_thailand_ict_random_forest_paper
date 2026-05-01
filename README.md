@@ -2,11 +2,11 @@
 
 This repository provides public-facing materials supporting the paper:
 
-**Understanding ICT-Related Drivers of Student Achievement in Thailand: A Cross-Framework Random Forest Analysis of PISA 2022**
+**ICT-Related Predictors of Student Achievement in Thailand: A Cross-Framework Random Forest Analysis of PISA 2022**
 
 ## Repository purpose
 
-This repository is intended to support **transparency and auditability** for the published paper. It contains selected scripts, public-facing metadata, and selected output files directly relevant to the article’s reported findings.
+This repository is intended to support **transparency and auditability** for the associated paper. It contains selected scripts, public-facing metadata, and selected output files directly relevant to the article’s reported findings.
 
 The repository is **not** a fully self-contained end-to-end reproduction package. Some private intermediate datasets, detailed framework-mapping resources, and broader internal workflow materials used in the larger PhD project are not publicly released here.
 
@@ -28,15 +28,17 @@ The paper interprets ICT-related predictors as contextually embedded within broa
 Documentation describing the input data requirements for the public materials.
 
 ### `02_metadata_public/`
-A reduced public-facing inventory of variables used in the published analysis.
+A reduced public-facing inventory of variables used in the associated analysis.
 
 ### `03_scripts/`
 The actual scripts used in the published workflow, shared with only minimal safe edits for public release.
 
 This includes:
+
 - selected preparation scripts
 - random forest scripts
 - the synthesis script used to consolidate the random forest outputs
+- validation scripts supporting the performance, rank-stability, sensitivity, and correlation diagnostics reported in the manuscript
 
 The analytical logic of these scripts has **not** been rewritten into new untested public-facing versions.
 
@@ -44,8 +46,10 @@ The analytical logic of these scripts has **not** been rewritten into new untest
 Selected paper-facing outputs directly relevant to the article.
 
 This includes:
+
 - three global top-20 random forest tables
 - four key synthesis outputs underpinning the paper’s main interpretive claims
+- selected validation outputs supporting the main-text validation table and supplementary validation diagnostics
 
 ### `05_docs/`
 Supporting documentation describing:
@@ -72,14 +76,14 @@ This repository should be understood primarily as a **transparency resource** ra
 
 ## Data source
 
-The published analysis is based on the Thailand subset of **PISA 2022**. Raw PISA data are not redistributed in this repository. Users wishing to inspect or adapt the workflow should obtain the relevant source data from the appropriate official OECD/PISA source.
+The associated analysis is based on the Thailand subset of **PISA 2022**. Raw PISA data are not redistributed in this repository. Users wishing to inspect or adapt the workflow should obtain the relevant source data from the appropriate official OECD/PISA source.
 
 ## Citation
 
 A full paper citation will be added here once publication details are available.
 
 If you use this repository, please cite both:
-1. the published paper, once available
+1. the associated paper, once available
 2. this repository, if a repository citation or DOI is later added
 
 ## Collaboration note
