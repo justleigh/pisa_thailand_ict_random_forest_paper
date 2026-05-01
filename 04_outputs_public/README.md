@@ -9,6 +9,9 @@ This folder contains selected public-facing output files directly relevant to th
 
 - `synthesis/`  
   Higher-level synthesis outputs used to support the paper’s main claims regarding cross-framework convergence, context shifts between in-school and out-of-school learning, and framework-sensitive variation.
+  
+- `validation/`
+  Selected validation outputs supporting the manuscript’s main validation summary and supplementary validation tables.
 
 ## Scope note
 
