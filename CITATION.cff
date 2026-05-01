@@ -5,8 +5,8 @@ type: software
 authors:
   - family-names: "Pearson"
     given-names: "Leigh"
-repository-code: "https://github.com/leighpearson/pisa_thailand_ict_rf_paper"
-abstract: "Public-facing repository supporting transparency and auditability for the paper 'Understanding ICT-Related Drivers of Student Achievement in Thailand: A Cross-Framework Random Forest Analysis of PISA 2022'. The repository contains selected scripts, metadata, and outputs underlying the published analysis."
+repository-code: "https://github.com/justleigh/pisa_thailand_ict_random_forest_paper"
+abstract: "Public-facing repository supporting transparency and auditability for the paper 'ICT-Related Predictors of Student Achievement in Thailand: A Cross-Framework Random Forest Analysis of PISA 2022'. The repository contains selected scripts, metadata, and outputs underlying the analysis."
 license: "MIT"
 version: "1.0.0"
 date-released: 2026-04-03
